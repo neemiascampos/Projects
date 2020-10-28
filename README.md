@@ -1,4 +1,4 @@
 # Projects
  Creating Place
 
- <h1 align="center">STRILL CREATING</H1>
+ <h1 align="center"><i>STRILL CREATING</i></H1>
